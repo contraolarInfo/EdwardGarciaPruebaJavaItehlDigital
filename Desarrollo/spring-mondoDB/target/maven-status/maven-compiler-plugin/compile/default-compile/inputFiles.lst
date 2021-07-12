@@ -1,0 +1,17 @@
+/home/ubunto/Documents/oficina/swagger/spring-mondoDB/src/main/java/co/com/spring/mongodb/repository/DescuentoRepository.java
+/home/ubunto/Documents/oficina/swagger/spring-mondoDB/src/main/java/co/com/spring/mongodb/repository/CursoRepository.java
+/home/ubunto/Documents/oficina/swagger/spring-mondoDB/src/main/java/co/com/spring/mongodb/controller/CampanaController.java
+/home/ubunto/Documents/oficina/swagger/spring-mondoDB/src/main/java/co/com/spring/mongodb/repository/CampanaRepository.java
+/home/ubunto/Documents/oficina/swagger/spring-mondoDB/src/main/java/co/com/spring/mongodb/service/DescuentoServicesImpl.java
+/home/ubunto/Documents/oficina/swagger/spring-mondoDB/src/main/java/co/com/spring/mongodb/model/Campana.java
+/home/ubunto/Documents/oficina/swagger/spring-mondoDB/src/main/java/co/com/spring/mongodb/service/CampanaServices.java
+/home/ubunto/Documents/oficina/swagger/spring-mondoDB/src/main/java/co/com/spring/mongodb/service/DescuentoServices.java
+/home/ubunto/Documents/oficina/swagger/spring-mondoDB/src/main/java/co/com/spring/mongodb/service/CursoServices.java
+/home/ubunto/Documents/oficina/swagger/spring-mondoDB/src/main/java/co/com/spring/mongodb/controller/CursoController.java
+/home/ubunto/Documents/oficina/swagger/spring-mondoDB/src/main/java/co/com/spring/mongodb/DemoSpringMongoDbApplication.java
+/home/ubunto/Documents/oficina/swagger/spring-mondoDB/src/main/java/co/com/spring/mongodb/model/Mensaje.java
+/home/ubunto/Documents/oficina/swagger/spring-mondoDB/src/main/java/co/com/spring/mongodb/model/Curso.java
+/home/ubunto/Documents/oficina/swagger/spring-mondoDB/src/main/java/co/com/spring/mongodb/model/Descuento.java
+/home/ubunto/Documents/oficina/swagger/spring-mondoDB/src/main/java/co/com/spring/mongodb/service/CursoServicesImpl.java
+/home/ubunto/Documents/oficina/swagger/spring-mondoDB/src/main/java/co/com/spring/mongodb/service/CampanaServicesImpl.java
+/home/ubunto/Documents/oficina/swagger/spring-mondoDB/src/main/java/co/com/spring/mongodb/controller/DescuentoController.java

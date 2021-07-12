@@ -1,0 +1,25 @@
+<table class="table table-dark">
+    <thead>
+      <tr>
+        <th scope="col">Nombre</th>
+        <th scope="col">Costo</th>
+        <th scope="col">Descricion</th>
+        <th scope="col">Horas</th>
+        <th scope="col">dirigidoa</th>
+        <th scope="col">modalidad</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let curso of cursos">
+        <td>{{curso.nombre}}</td>
+        <td>{{curso.costo}}</td>
+        <td>{{curso.descripcion}}</td>
+        <td>{{curso.horas}}</td>
+        <td>{{curso.dirigidoa}}</td>
+        <td>{{curso.modalidad}}</td>
+        <td><button class="btn btn-outline-primary" routerLink="/detalle/{{curso.nombre}}"><i class="far fa-eye"></i> Ver</button></td>
+        <td><button class="btn btn-outline-warning" routerLink="/editar/{{curso.nombre}}"><i class="far fa-edit"></i> Editar</button></td>
+        <td><button class="btn btn-outline-danger" (click)="borrar(curso.nombre)"><i class="far fa-trash-alt"></i> Eliminar</button></td> 
+      </tr>
+    </tbody>
+  </table>
